@@ -27,4 +27,4 @@ pipeline {
         }
     }
 }
-Github token - ghp_fed7djAvYi20FHtMjEK6uXOEvCScHW4L02tvfvggb
+Github token - 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
